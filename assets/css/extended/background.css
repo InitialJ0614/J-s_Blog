@@ -1,0 +1,18 @@
+body {
+    background-image: url('/bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* 关键：PaperMod 的 body 底色是 --theme，不透明时背景图会被盖死 */
+:root {
+    --theme: transparent;
+    --entry: rgba(255, 255, 255, 0.6);
+}
+
+.dark {
+    --theme: transparent;
+    --entry: rgba(46, 46, 51, 0.85);
+}

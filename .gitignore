@@ -1,0 +1,12 @@
+# Hugo 构建产物（每次 hugo build 都会变，几百 MB，绝不能 push）
+public/
+.hugo_build.lock
+resources/
+
+# 编辑器/系统杂项
+.DS_Store
+Thumbs.db
+
+# 备份/临时文件
+*.bak
+*.tmp
