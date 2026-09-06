@@ -206,13 +206,13 @@ pygmentsUseClasses = true
   identifier = '浮生碎笔'
   name = '浮生碎笔'
   url = '/diaries/'
-  weight = 10
+  weight = 11
 
 [[menu.main]]
-  identifier = '仙交往事'
-  name = '仙交往事'
+  identifier = '活在仙交'
+  name = '活在仙交'
   url = '/things_in_xjtu/'
-  weight = 10
+  weight = 12
 
 [markup]
   [markup.highlight]

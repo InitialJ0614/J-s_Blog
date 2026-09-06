@@ -1,24 +1,23 @@
-\---
++++
 
-title: "{{ replace .Name "-" " " | title }}"
+title = "{{ replace .Name "-" " " | title }}"
 
-summary: ""
+summary = ""
 
-date: {{ .Date }}
+date = 2026-09-06T18:09:39+08:00
 
-lastmod: {{ .Date }}
+lastmod = 2026-09-06T18:09:39+08:00
 
-categories:
+categories = []
 
-tags:
+tags = []
 
-comments: true
+comments = true
 
-ShowToc: true
+ShowToc = true
 
-TocOpen: true
+TocOpen = true
 
-draft: false
+draft = false
 
-\---
-
++++

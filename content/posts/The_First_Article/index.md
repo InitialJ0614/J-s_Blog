@@ -1,7 +1,25 @@
 +++
-date = '2026-09-04T22:33:43+08:00'
+
+title = "The First Article"
+
+summary = ""
+
+date = 2026-09-06T18:09:39+08:00
+
+lastmod = 2026-09-06T18:09:39+08:00
+
+categories = ['Blog的建构日记']
+
+tags = []
+
+comments = true
+
+ShowToc = true
+
+TocOpen = true
+
 draft = false
-title = 'The First Article'
+
 +++
 
 This is the first article of my blog.
