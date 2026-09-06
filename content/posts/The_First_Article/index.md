@@ -10,7 +10,7 @@ lastmod = 2026-09-06T18:09:39+08:00
 
 categories = ['Blog的建构日记']
 
-tags = []
+tags = ['The First Article','原初之章']
 
 comments = true
 
