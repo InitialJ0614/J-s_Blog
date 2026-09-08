@@ -10,7 +10,7 @@ lastmod = 2026-09-07T23:41:39+08:00
 
 categories = ['军训']
 
-tags = ['军训','西交','苦难']
+tags = ['军训','西交','连续剧']
 
 comments = true
 
