@@ -4,9 +4,9 @@ title = "{{ replace .Name "-" " " | title }}"
 
 summary = ""
 
-date = 2026-09-06T18:09:39+08:00
+date = {{ .Date }}
 
-lastmod = 2026-09-06T18:09:39+08:00
+lastmod = {{ .Date }}
 
 categories = []
 
