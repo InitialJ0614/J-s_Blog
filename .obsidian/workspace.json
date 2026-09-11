@@ -11,10 +11,14 @@
             "id": "d214c48ec6245314",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/things_in_xjtu/食在西交-外卖/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -186,6 +190,13 @@
   },
   "active": "d214c48ec6245314",
   "lastOpenFiles": [
+    "public/things_in_xjtu/食在西交-外卖/小黄油美式.png",
+    "public/things_in_xjtu/食在西交-外卖/Hello 苹果茉莉.png",
+    "content/things_in_xjtu/食在西交-外卖/Hello 苹果茉莉.png",
+    "content/things_in_xjtu/食在西交-外卖/未确认 513567.crdownload",
+    "content/posts/The_First_Article/index.md",
+    "content/things_in_xjtu/食在西交-外卖/小黄油美式.png",
+    "content/things_in_xjtu/食在西交-外卖/未确认 573540.crdownload",
     "content/diaries/26.6.15/index.md",
     "content/diaries/26.8.16/index.md",
     "content/things_in_xjtu/食在西交-前言/index.md",
@@ -202,8 +213,6 @@
     "public/tags/学校办事",
     "public/tags/u办事/page/1/index.html",
     "public/tags/u办事/page/1",
-    "public/tags/u办事/page",
-    "public/tags/u办事/index.xml",
     "public/things_in_xjtu/食在西交-外卖/草莓摇摇奶昔.png",
     "content/things_in_xjtu/食在西交-外卖/草莓摇摇奶昔.png",
     "content/things_in_xjtu/食在西交-外卖/小黄油拿铁.png",
@@ -211,13 +220,9 @@
     "Pasted image 20260909132242.png",
     "public/diaries/26.9.8/黎明的蓝天.png",
     "public/diaries/26.9.8/飞蝇.png",
-    "public/diaries/26.9.8/老屋.png",
-    "public/diaries/26.9.8/王谢堂前.png",
-    "public/diaries/26.9.8/夜半的群星.png",
     "content/diaries/26.9.8/index.md",
     "content/diaries/9.8/index.md",
     "content/diaries/_index.md",
-    "content/posts/The_First_Article/index.md",
     "archetypes/diaries.md",
     "archetypes/things_in_xjtu.md",
     "archetypes/default.md",
