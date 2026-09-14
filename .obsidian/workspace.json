@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf93356c6b0e127",
+        "id": "fad9b8e6b9e4c34f",
         "type": "tabs",
         "children": [
           {
-            "id": "affe3af8d3a31de9",
+            "id": "f0730ff45b4fdf66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/things_in_xjtu/食在西交-饮品/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -184,8 +188,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "affe3af8d3a31de9",
+  "active": "f0730ff45b4fdf66",
   "lastOpenFiles": [
+    "content/things_in_xjtu/食在西交-饮品/index.md",
+    "content/things_in_xjtu/食在西交-前言/index.md",
+    "content/things_in_xjtu/食在西交-食堂/index.md",
     "content/things_in_xjtu/食在西交-校外世界/index.md",
     "content/diaries/军训纪实 Ⅱ/index.md",
     "public/categories/西交生活/page/1/index.html",
@@ -209,9 +216,6 @@
     "content/things_in_xjtu/JJ在西交の理发之旅/index.md",
     "content/things_in_xjtu/学校相关重要网站/index.md",
     "content/things_in_xjtu/_index.md",
-    "content/things_in_xjtu/食在西交-前言/index.md",
-    "content/things_in_xjtu/食在西交-食堂/index.md",
-    "content/things_in_xjtu/食在西交-饮品/index.md",
     "content/things_in_xjtu/军训纪实 Ⅱ/index.md",
     "content/things_in_xjtu/军训纪实Ⅰ/index.md",
     "content/things_in_xjtu/食在西交-饮品/紫葡萄茉莉冰奶.jpg",
