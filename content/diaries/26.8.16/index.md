@@ -8,9 +8,9 @@ date = 2026-08-16T02:39:23+08:00
 
 lastmod = 2026-08-16T02:39:23+08:00
 
-categories = []
+categories = ['我所思']
 
-tags = []
+tags = ['家人','生死','夜半','思考']
 
 comments = true
 

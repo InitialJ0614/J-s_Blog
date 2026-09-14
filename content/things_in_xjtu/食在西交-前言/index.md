@@ -8,9 +8,9 @@ date = 2026-09-06T18:09:39+08:00
 
 lastmod = 2026-09-06T18:09:39+08:00
 
-categories = ['食在西交']
+categories = ['西交生活']
 
-tags = ['进食', '西交','食在西交']
+tags = ['进食', '西交',]
 
 comments = true
 

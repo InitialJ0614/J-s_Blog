@@ -8,9 +8,9 @@ date = 2026-06-15T18:32:42+08:00
 
 lastmod = 2026-06-15T18:32:42+08:00
 
-categories = []
+categories = ['我所思']
 
-tags = ['想法']
+tags = ['思考']
 
 comments = true
 
