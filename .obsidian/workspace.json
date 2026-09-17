@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fad9b8e6b9e4c34f",
+        "id": "84c67805985d4001",
         "type": "tabs",
         "children": [
           {
-            "id": "f0730ff45b4fdf66",
+            "id": "e468ac435372753b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/useful_websites/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "7a429125235df0b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/things_in_xjtu/学校相关重要网站/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "新标签页"
             }
           }
         ]
@@ -202,8 +184,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f0730ff45b4fdf66",
+  "active": "e468ac435372753b",
   "lastOpenFiles": [
+    "content/things_in_xjtu/学校相关重要网站/index.md",
+    "content/posts/useful_websites/index.md",
     "public/posts/useful_websites/arkrpg.webp",
     "content/posts/useful_websites/arkrpg.webp",
     "content/posts/useful_websites/未确认 573275.crdownload",
@@ -220,14 +204,11 @@
     "content/posts/useful_websites/可达阅读器.png",
     "content/posts/useful_websites/未确认 227363.crdownload",
     "content/things_in_xjtu/食在西交-饮品/index.md",
-    "content/posts/useful_websites/index.md",
-    "public/posts/useful_websites/漫阅.webp",
     "content/posts/useful_websites/未确认 380304.crdownload",
     "public/tags/效率/page/1/index.html",
     "public/tags/效率/page/1",
     "public/tags/效率/page",
     "public/tags/效率/index.xml",
-    "content/things_in_xjtu/学校相关重要网站/index.md",
     "content/diaries/9.17/index.md",
     "content/things_in_xjtu/玩在西交/index.md",
     "content/things_in_xjtu/食在西交-食堂/index.md",
