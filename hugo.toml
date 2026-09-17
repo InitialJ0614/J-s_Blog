@@ -194,10 +194,16 @@ Email：j_blog@qq.com（注意不要漏了前面的”j_“！！！）
   weight = 1
 
 [[menu.main]]
+  identifier = '有意思的东西'
+  name = '有意思的东西'
+  url = '/posts/'
+  weight = 11
+
+[[menu.main]]
   identifier = '分类'
   name = '分类'
   url = '/categories/'
-  weight = 10
+  weight = 19
 
 [[menu.main]]
   identifier = '标签'
