@@ -11,10 +11,14 @@
             "id": "e468ac435372753b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/things_in_xjtu/食在西交-食堂/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -186,8 +190,10 @@
   },
   "active": "e468ac435372753b",
   "lastOpenFiles": [
-    "content/things_in_xjtu/学校相关重要网站/index.md",
+    "content/things_in_xjtu/食在西交-饮品/index.md",
+    "content/things_in_xjtu/食在西交-食堂/index.md",
     "content/posts/useful_websites/index.md",
+    "content/things_in_xjtu/学校相关重要网站/index.md",
     "public/posts/useful_websites/arkrpg.webp",
     "content/posts/useful_websites/arkrpg.webp",
     "content/posts/useful_websites/未确认 573275.crdownload",
@@ -203,7 +209,6 @@
     "public/posts/useful_websites/可达阅读器.png",
     "content/posts/useful_websites/可达阅读器.png",
     "content/posts/useful_websites/未确认 227363.crdownload",
-    "content/things_in_xjtu/食在西交-饮品/index.md",
     "content/posts/useful_websites/未确认 380304.crdownload",
     "public/tags/效率/page/1/index.html",
     "public/tags/效率/page/1",
@@ -211,7 +216,6 @@
     "public/tags/效率/index.xml",
     "content/diaries/9.17/index.md",
     "content/things_in_xjtu/玩在西交/index.md",
-    "content/things_in_xjtu/食在西交-食堂/index.md",
     "content/things_in_xjtu/食在西交-前言/index.md",
     "content/things_in_xjtu/食在西交-校外世界/index.md",
     "content/diaries/军训纪实 Ⅱ/index.md",
