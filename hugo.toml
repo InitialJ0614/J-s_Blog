@@ -212,7 +212,7 @@ Email：j_blog@qq.com（注意不要漏了前面的”j_“！！！）
   weight = 20
 
 [[menu.main]]
-  identifier = '浮生碎'
+  identifier = '浮生碎笔'
   name = '浮生碎笔'
   url = '/diaries/'
   weight = 11
