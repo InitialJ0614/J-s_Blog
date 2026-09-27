@@ -47,3 +47,5 @@ WebVPN：webvpn.xjtu.edu.cn
 6.本科考勤：bkkq.xjtu.edu.cn
 >查考勤的，也可以在1的犄角旮旯里找到。
 
+7.教师主页：https://faculty.xjtu.edu.cn/
+>囊括了学校里的老师，本科生想要进实验室可以在这上面找老师与联系方式。
